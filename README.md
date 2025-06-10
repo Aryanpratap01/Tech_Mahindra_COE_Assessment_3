@@ -24,6 +24,16 @@ Whether you’re a beginner or a pro, this app keeps your health stats organized
 
 ---
 
+## 🎯 Screenshots
+
+| Home Screen                   | Add Workout                   | Workout Summary                | BMI Calculator                |
+| ---------------------------- | ---------------------------- | ----------------------------- | ---------------------------- |
+| ![Home Screen](![WhatsApp Image 2025-06-10 at 23 23 52_1de6bb84](https://github.com/user-attachments/assets/bbf89eee-2694-40ae-9c4e-429f28f127b6)
+) | ![Add Workout](![WhatsApp Image 2025-06-10 at 23 23 52_f8b41156](https://github.com/user-attachments/assets/a9bc5c7e-d9d6-4f62-89a5-676d436a0334)
+) | ![Summary](![WhatsApp Image 2025-06-10 at 23 23 51_73fa39bd](https://github.com/user-attachments/assets/98fb00a2-42e1-4dec-88c3-f33f2a214719)
+) | ![BMI](![WhatsApp Image 2025-06-10 at 23 23 51_352714bc](https://github.com/user-attachments/assets/cbf61948-efc9-4561-8658-ea0131dcee9a)
+) |
+
 ## 🛠️ Built With
 
 - [Flutter](https://flutter.dev/) - Cross-platform mobile framework  
